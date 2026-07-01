@@ -29,4 +29,4 @@ Ejecutar la aplicación:
 streamlit run app.py
 
 La aplicación esta disponible en:
-https://tu-aplicacion.onrender.com
+https://vehicle-analysis-f9jr.onrender.com/
